@@ -9,7 +9,6 @@ Objectives
 - Understand user and group management
 - Implement Role-Based Access Control (RBAC)
 - Explore authentication mechanisms
-- Learn identity lifecycle management (Joiner-Mover-Leaver)
 
 Tools Used
 
